@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 433.38 239.24">
+  <defs>
+    <style>
+      .cls-1, .cls-2, .cls-3 {
+        opacity: .97;
+      }
+
+      .cls-2 {
+        font-size: 72px;
+      }
+
+      .cls-2, .cls-4, .cls-3 {
+        font-family: Elounda-Regular, Elounda;
+      }
+
+      .cls-2, .cls-3 {
+        fill: #151f2e;
+      }
+
+      .cls-4 {
+        fill: #c163f9;
+        font-size: 200px;
+      }
+
+      .cls-5 {
+        letter-spacing: -.02em;
+      }
+
+      .cls-3 {
+        font-size: 24px;
+      }
+    </style>
+  </defs>
+  <text class="cls-3" transform="translate(134.72 161.89)"><tspan x="0" y="0">Design</tspan></text>
+  <g class="cls-1">
+    <text class="cls-4" transform="translate(0 170)"><tspan x="0" y="0">w</tspan></text>
+  </g>
+  <text class="cls-2" transform="translate(161.9 138.16) rotate(.04)"><tspan x="0" y="0">e</tspan><tspan class="cls-5" x="45.07" y="0">n</tspan><tspan x="97.13" y="0">tzel</tspan></text>
+</svg>

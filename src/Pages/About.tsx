@@ -1,12 +1,13 @@
 import React from "react";
 
+import { Layout } from "../Components/Layout";
+
 export const About = () => {
     return (
-        <div>
-            <h1>About</h1>
-            <p>
-                This is the about page.
-            </p>
-        </div>
+    <Layout>
+        <div>This is the about tab</div>
+    </Layout>
+  
+        
     );
 }
